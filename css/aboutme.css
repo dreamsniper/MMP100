@@ -1,0 +1,67 @@
+body{
+	color: #ffffff;
+	background-color : #000000;
+	}
+p{
+	font-family: American Typewriter, Times New Roman;
+	text-align: center;
+	}
+#signature{
+	font-family: Snell Roundhand, Zapfino;
+	font-size: 40px;
+	}
+h1, h3, h5{
+	font-family: Verdana, Arial, sans-serif;
+	color: #ffffff;
+	text-align: center;
+	} 
+/*specifics for navigation bar*/
+#navi{
+	position: center;
+	font-family: Helvetica, Futura, Arial Black, sans-serif;
+	border: 1px dotted white;
+	width: 50%;
+	height: 5%;
+	padding: 5px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	}
+#logo{
+	background-color: #ffffff;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	}
+#me{
+	position: center;
+	display: block;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+#wholeBody{
+	position: center;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px outset #5e5d5d;
+	}
+/*unvisited link*/
+a:link{
+	color: #ffffff;
+	}
+/*visited link*/
+a:visited{
+	color: #ffffff;
+	}
+/*mouse over link*/
+a:hover{
+	color: #23d1eb;
+	}
+/*selected link*/
+a: active{
+	color: #23d1eb;
+	}
+	
+	

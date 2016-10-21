@@ -1,0 +1,121 @@
+/*_______index page__________*/
+
+body{
+  font-family: American Typewriter, serif;
+  background-color: #000000;
+    color: #ffffff;
+	}
+/*specifics for navigation bar*/
+#navigationBar{
+	font-family: Helvetica, Futura, Arial Black, sans-serif;
+	border: 1px dotted white;
+	width: 50%;
+	height: 5%;
+	padding: 1px;
+	text-align: center;
+	background-color: #8B636C;
+	}
+h1, h3, h5, h6{
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+	color: #ffffff;
+	}
+/*Sets the table navigation bar centered*/
+.table{
+	margin-left: auto;
+	margin-right: auto;
+	}	
+/*to center main image*/
+#july{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	width: 800px;
+	}
+/*unvisited link*/
+a:link{
+	color: #ffffff;
+	}
+
+/*visited link*/
+a:visited{
+	color: #ffffff;
+	}
+
+/*mouse over link*/
+a:hover{
+	color: #23d1eb;
+	}
+
+/*selected link*/
+a: active{
+	color: #23d1eb;
+	}
+#footer{
+  position: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+h6{
+  margin-top: -4px;
+  }
+
+/*_________about me page__________*/
+
+p{
+	font-family: American Typewriter, Times New Roman;
+	text-align: center;
+	}
+#signature{
+	font-family: Snell Roundhand, Zapfino;
+	font-size: 40px;
+	}
+#logo{
+	background-color: #ffffff;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	}
+#me{
+	position: center;
+	display: block;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+#wholeBody{
+	position: center;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px inset #898a88;
+	width: 900px;
+	}
+#aboutMeText{
+	background-color: #5e5d5d;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px inset #ff66cc;
+	}
+
+/*______photoshop page_______*/
+
+#photoshop1{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+  	width: 648px;
+  	height: 432;
+  }
+  
+#illustrator{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	width: 432px;
+  	height: 397px;
+  }

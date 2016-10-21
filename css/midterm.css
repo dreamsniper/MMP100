@@ -1,0 +1,122 @@
+body{ 
+  	font-family: "Times New Roman", serif;
+   	background-color: #ffffff;
+  }
+
+.bodyBorder{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #ffffff;
+	padding: 10px;
+	width: 1000px;
+	height: 1050px;
+	}
+
+.logo{
+	padding; 5px;
+	width: 150px;
+	}
+
+#artland{
+	position: absolute;
+	top: -193px;
+	margin-left: 160px;
+	font-size: 173px;
+	}
+	
+#table{
+	font-size: 18px;
+	width: 1000px;
+	text-align: center;
+	padding: 2px;
+	background-color: #dcdce8;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+#artLovePic{
+	display: left;
+	margin-left: auto;
+	margin-left: auto;
+	width: 749px;
+	height: 449px;
+	}
+	
+.list{
+ 	font-size: 16px;
+	height: 440px;
+	width: 225px;
+	padding: 2px;
+	border: 1px solid #000000;
+	position: absolute;
+	top: 230px;
+	margin-left: 767px;
+  	display: right;
+    background-color: dcdce8;
+	}
+
+#blogAdvertisement{
+  	position: absolute;
+	padding: 1px;
+	height: 160px;
+	width: 220px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  	top: 280px;
+	}
+
+#pal{
+	text-shadow: 2px 2px 5px #111111;
+	font-weight: bold;
+	font-family: "Arial", "Gil Sans", "Futura", sans serif;
+	font-size: 20px;
+	letter-spacing: 0.9em;
+  	margin-left: 25px;
+	}
+  
+#words{
+	font-size: 17px;
+  	text-align: justify;
+  	vertical-align: left;
+  	width: 450px;
+  	margin-left: 25px;
+  	}
+  
+.contact{
+	text-decoration: none;
+	padding: 4px;
+	border: 1px solid #000000;
+	position: absolute;
+	top: 710px;
+	margin-left: 530px;
+	width: 420px;
+ 	height: 290;
+ 	font-size: 17px;
+	}
+  
+#comments{
+    width: 300px;
+    height: 60px;
+}
+#wholeLand{
+ 	border: 1px solid #000000;
+ 	margin-top: 5px;
+ 	margin-bottom: 5px;
+	padding: 5px;
+ 	height: 330;
+ 	width: 986px;
+ 	 }
+
+#footer{
+	padding: 2px;
+  	border: 1px dotted #000000;
+	width: 950px;
+	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	background-color: #dcdce8;
+	text-align: center;
+	}
